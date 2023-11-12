@@ -1,0 +1,20 @@
+[
+  {
+    "artist": "Artist1",
+    "album": "Album1",
+    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
+    "year": "Year1"
+  },
+  {
+    "artist": "Artist2",
+    "album": "Album2",
+    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
+    "year": "Year2"
+  },
+  {
+    "artist": "Artist3",
+    "album": "Album3",
+    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
+    "year": "Year3"
+  }
+]
