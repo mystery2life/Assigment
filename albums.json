@@ -1,20 +1,20 @@
 [
   {
-    "artist": "Artist1",
-    "album": "Album1",
-    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
-    "year": "Year1"
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "songs": ["Shape of You", "Castle on the Hill", "Galway Girl", "Perfect", "Happier"],
+    "year": 2017
   },
   {
-    "artist": "Artist2",
-    "album": "Album2",
-    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
-    "year": "Year2"
+    "artist": "Beyoncé",
+    "album": "Lemonade",
+    "songs": ["Formation", "Sorry", "Hold Up", "Freedom", "All Night"],
+    "year": 2016
   },
   {
-    "artist": "Artist3",
-    "album": "Album3",
-    "songs": ["Song1", "Song2", "Song3", "Song4", "Song5"],
-    "year": "Year3"
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "songs": ["HUMBLE.", "DNA.", "LOVE.", "ELEMENT.", "LOYALTY."],
+    "year": 2017
   }
 ]
